@@ -1,2 +1,2 @@
 # SQL_Tableau
-SQL and Tableau Projects
+EDA & Visualization using MySQL and Tableau on HR Dataset.
